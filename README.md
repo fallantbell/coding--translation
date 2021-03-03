@@ -18,7 +18,7 @@
 
 ## 功能
 1 列出指定資料夾下的所有檔案  
-2 轉換指定檔案的編碼  
+2 轉換指定檔案的編碼(例如我要把java檔轉成utf8 extension就打java)    
 使用要先修改程式裡面的dir 為資料夾的絕對路徑  
 ![image](https://github.com/fallantbell/coding--translation/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202021-03-03%20130557.png)  
 
