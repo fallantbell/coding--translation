@@ -22,4 +22,5 @@
 使用要先修改程式裡面的dir 為資料夾的絕對路徑  
 ![image](https://github.com/fallantbell/coding--translation/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202021-03-03%20130557.png)  
 
-### 功能展示-1  
+遍歷資料夾所有檔案 參考來源:https://www.itread01.com/article/1529463946.html  
+ANSI轉UTF8的方法 參考來源:https://blog.csdn.net/sjy88813/article/details/6662879  
